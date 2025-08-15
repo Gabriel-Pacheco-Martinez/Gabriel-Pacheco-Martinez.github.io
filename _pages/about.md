@@ -6,12 +6,11 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  <p>📍 Blacksburg, VA</p>
+  <p>🇧🇴 Bolivia</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +26,55 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Gabriel, a Master’s student at Virginia Tech, advised by [Dr. Muhammad Ali Gulzar](https://people.cs.vt.edu/~gulzar/), former Amazon Scholar and Google Ph.D. Fellow.  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on analyzing `HTTP headers` to understand how websites track users across the web. I `collect and examine` network traffic data, identifying heuristics that indicate tracking—such as value consistency, third-party associations, length patterns, and storage in cookies or local storage. I also `leverage LLMs` to classify headers likely used for tracking, aiming to enhance privacy analysis tools and [contribute to a more transparent and secure web].  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[CV](#)  
+
+---
+
+# Research Outreach
+Here I will showcase my research.  
+
+---
+
+# Publications
+Here I will list my publications.  
+
+---
+
+# Experience
+Here I will detail my professional experience.  
+
+---
+
+# Education
+
+## Virginia Tech
+Master in Computer Engineering | August 2024 – Present
+GPA: 3.78/4.0
+
+## University of Nottingham
+BEng in Electronic and Computer Engineering | September 2019 – July 2023
+GPA: 4.0/4.0
+
+---
+
+# Honors & Awards
+
+## Awards
+**2019** Kaplan Achievement Award Scholarship, University of Nottingham  
+
+---
+
+# Projects
+
+## Form Prediction in Sports Using Machine Learning
+Built a K-NN model in Python to predict team form, outperforming betting odds. (Oct 2024 – Dec 2024)
+
+## Wavefront Shaping System
+Designed an optical system using MATLAB, DMDs, and an astrophotography camera to focus light through scattering media with image processing and machine learning. (Sep 2022 – Apr 2023)
+
+## Doppler Radar Design
+Collaborated to design and build a Doppler radar using data acquisition, digital signal processing, and integrated circuits.  (September 2021 – March 2022)
