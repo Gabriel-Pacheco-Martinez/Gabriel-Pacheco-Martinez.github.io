@@ -32,22 +32,18 @@ My research focuses on analyzing `HTTP headers` to understand how websites track
 
 CV  
 
----
 
 # Research Outreach
 Here I will showcase my research.  
 
----
 
 # Publications
 Here I will list my publications.  
 
----
 
 # Experience
 Here I will detail my professional experience.  
 
----
 
 # Education
 
@@ -59,14 +55,11 @@ GPA: 3.78/4.0
 BEng in Electronic and Computer Engineering | September 2019 – July 2023
 GPA: 4.0/4.0
 
----
-
 # Honors & Awards
 
 ## Awards
 **2019** Kaplan Achievement Award Scholarship, University of Nottingham  
 
----
 
 # Projects
 
