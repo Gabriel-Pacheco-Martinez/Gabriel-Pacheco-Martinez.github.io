@@ -29,3 +29,14 @@ latest_posts:
 I'm Gabriel, a Master’s student at Virginia Tech, advised by Dr. Muhammad Ali Gulzar (https://people.cs.vt.edu/~gulzar/), former Amazon Scholar and Google Ph.D. Fellow.  
 
 My research focuses on analyzing HTTP headers to understand how websites track users across the web. I collect and examine network traffic data, identifying heuristics that indicate tracking—such as value consistency, third-party associations, length patterns, and storage in cookies or local storage. I also leverage LLMs to classify headers likely used for tracking, aiming to enhance privacy analysis tools and contribute to a more transparent and secure web.  
+
+# Education
+
+## Virginia Tech
+Master in Computer Engineering | August 2024 – Present
+GPA: 3.78/4.0
+
+## University of Nottingham
+BEng in Electronic and Computer Engineering | September 2019 – July 2023
+GPA: 4.0/4.0
+
