@@ -32,15 +32,44 @@ My research focuses on analyzing HTTP headers to understand how websites track u
 
 ---
 
+### <span style="color:#3792b3;">Research Outreach</span>
+
+---
+
+### <span style="color:#3792b3;">Publications</span>
+
+---
+
+### <span style="color:#3792b3;">Experience</span>
+
+---
+
 ### <span style="color:#3792b3;">Education</span>
 
 **<span style="color:#3792b3;">Virginia Tech</span>**  
 Master in Computer Engineering | August 2024 – Present  
 GPA: 3.78/4.0  
 
-**<span style="color:#3792b3;">University of Nottingham</span>**
+**<span style="color:#3792b3;">University of Nottingham</span>**  
 BEng in Electronic and Computer Engineering | September 2019 – July 2023  
 GPA: 4.0/4
 
 ---
 
+### <span style="color:#3792b3;">Honors & Awards</span>
+
+**<span style="color:#3792b3;">Awards</span>**  
+**2019** Kaplan Achievement Award Scholarship, University of Nottingham 
+
+---
+
+### <span style="color:#3792b3;">Projects</span>
+
+**<span style="color:#3792b3;">Form Prediction in Sports Using Machine Learning</span>**  
+Built a K-NN model in Python to predict team form, outperforming betting odds. (Oct 2024 – Dec 2024)
+
+**<span style="color:#3792b3;">Wavefront Shaping System</span>**  
+Designed an optical system using MATLAB, DMDs, and an astrophotography camera to focus light through scattering media with image processing and machine learning. (Sep 2022 – Apr 2023)
+
+**<span style="color:#3792b3;">Doppler Radar Design</span>**  
+Collaborated to design and build a Doppler radar using data acquisition, digital signal processing, and integrated circuits.  (September 2021 – March 2022)
