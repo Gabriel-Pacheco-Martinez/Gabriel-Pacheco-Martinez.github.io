@@ -32,11 +32,11 @@ My research focuses on analyzing HTTP headers to understand how websites track u
 
 ---
 
-### Education
+### <span style="color:#1a73e8;">Education</span>
 
-**Virginia Tech**
+**<span style="color:#1a73e8;">Virginia Tech</span>**  
 Master in Computer Engineering | August 2024 – Present  
-GPA: 3.78/4.0
+GPA: 3.78/4.0  
 
 **University of Nottingham**
 BEng in Electronic and Computer Engineering | September 2019 – July 2023  
