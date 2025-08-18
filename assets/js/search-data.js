@@ -508,13 +508,13 @@ ninja.data = [{
         title: 'LeetCode',
         section: 'Socials',
         handler: () => {
-          window.open("https://leetcode.com/u/https://leetcode.com/u/gabopachecoo//", "_blank");
+          window.open("https://leetcode.com/u/gabopachecoo/", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/gabriel-pacheco-martinez/", "_blank");
+          window.open("https://www.linkedin.com/in/gabriel-pacheco-martinez", "_blank");
         },
       },];
