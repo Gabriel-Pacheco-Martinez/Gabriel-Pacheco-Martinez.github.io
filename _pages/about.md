@@ -32,15 +32,15 @@ My research focuses on analyzing HTTP headers to understand how websites track u
 
 ---
 
-### <span style="color:#1a73e8;">Education</span>
+### <span style="color:#3792b3;">Education</span>
 
-**<span style="color:#1a73e8;">Virginia Tech</span>**  
+**<span style="color:#3792b3;">Virginia Tech</span>**  
 Master in Computer Engineering | August 2024 – Present  
 GPA: 3.78/4.0  
 
-**University of Nottingham**
+**<span style="color:#3792b3;">University of Nottingham</span>**
 BEng in Electronic and Computer Engineering | September 2019 – July 2023  
-GPA: 4.0/4.0
+GPA: 4.0/4
 
 ---
 
