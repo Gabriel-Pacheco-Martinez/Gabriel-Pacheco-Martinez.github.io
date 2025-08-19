@@ -3,14 +3,6 @@ layout: about
 title: about
 permalink: /
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <div>📍 Blacksburg, VA</div>
-    <div>🇧🇴 Bolivia</div>
-
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
@@ -25,15 +17,33 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Gabriel, a Master’s student at Virginia Tech, advised by 
-<a href="https://people.cs.vt.edu/~gulzar/" target="_blank">Dr. Muhammad Ali Gulzar</a>, 
-former Amazon Scholar and Google Ph.D. Fellow.
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-My research focuses on analyzing HTTP headers to understand how websites track users across the web. 
-I collect and examine network traffic data, identifying heuristics that indicate tracking—such as 
-value consistency, third-party associations, length patterns, and storage in cookies or local storage. 
-I also leverage LLMs to classify headers likely used for tracking, aiming to enhance privacy analysis tools 
-and contribute to a more transparent and secure web.
+    <!-- Left side: text -->
+    <div style="flex: 2; margin: 0; padding: 0;">
+        <p style="margin-top: 0;">
+            I'm Gabriel, a Master’s student at Virginia Tech, advised by
+            <a href="https://people.cs.vt.edu/~gulzar/" target="_blank">Dr. Muhammad Ali Gulzar</a>,
+            former Amazon Scholar and Google Ph.D. Fellow.
+        </p>
+
+        <p style="margin-top: 0;">
+            My research focuses on analyzing HTTP headers to understand how websites track users across the web.
+            I collect and examine network traffic data, identifying heuristics that indicate tracking—such as
+            value consistency, third-party associations, length patterns, and storage in cookies or local storage.
+            I also leverage LLMs to classify headers likely used for tracking, aiming to enhance privacy analysis tools
+            and contribute to a more transparent and secure web.
+        </p>
+    </div>
+
+    <!-- Right side: image + info -->
+    <div style="flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; margin: 0; padding: 0;">
+        <img src="/assets/img/prof_pic.jpg" alt="Gabriel" style="width:200px; height:200px; border-radius:12px; margin-bottom:15px;">
+        <div>📍 Blacksburg, VA</div>
+        <div>🇧🇴 Bolivia</div>
+    </div>
+
+</div>
 
 ---
 
