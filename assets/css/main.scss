@@ -23,3 +23,21 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* Links */
+a {
+  color: #1a73e8;       // normal link color
+  text-decoration: none; 
+}
+a:hover {
+  color: #155ab6;       // hover color
+  text-decoration: underline;
+}
+
+/* Inline code */
+code {
+  background-color: #e0f7ff;  // light blue background
+  color: #004080;             // dark blue text
+  padding: 2px 4px;
+  border-radius: 4px;
+}
