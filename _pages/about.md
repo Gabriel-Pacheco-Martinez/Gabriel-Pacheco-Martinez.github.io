@@ -49,7 +49,7 @@ latest_posts:
 
 ### <span style="color:#1f3c86;">Experience</span>
 
-**<span style="color:#1f3c86;">Virginia Tech</span>** • Web Security & Header Investigation • 2025 – Present  
+**<span style="color:#1f3c86;">Virginia Tech</span>** • Web Security & Header Investigation • May 2025 – Present  
 Conducting research on HTTP header behaviors, heuristics, and machine learning models to identify tracking techniques and strengthen web privacy defenses.  
 
 **<span style="color:#1f3c86;">OEBSA</span>** • Software Engineer • Mar 2024 – Jul 2024  
