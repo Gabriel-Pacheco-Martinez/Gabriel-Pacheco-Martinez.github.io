@@ -68,7 +68,7 @@ GPA: 3.78/4.0
 
 **<span style="color:#1f3c86;">University of Nottingham</span>**  
 BEng in Electronic and Computer Engineering | September 2019 – July 2023  
-GPA: 4.0/4
+GPA: 4.0/4.0
 
 ---
 
