@@ -22,7 +22,7 @@ latest_posts:
     <!-- Left side: text -->
     <div style="flex: 2; margin: 0; padding: 0;">
         <p style="margin-top: 0;">
-            I'm Gabriel, a Master’s student at Virginia Tech, advised by
+            I'm Gabriel, a Master’s student at Virginia Tech. Advised by
             <a href="https://people.cs.vt.edu/~gulzar/" target="_blank">Dr. Muhammad Ali Gulzar</a>,
             former Amazon Scholar and Google Ph.D. Fellow.
         </p>
