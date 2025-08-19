@@ -55,7 +55,7 @@ Conducting research on HTTP header behaviors, heuristics, and machine learning m
 **<span style="color:#1f3c86;">OEBSA</span>** • Software Engineer • Mar 2024 – Jul 2024  
 Engineered backend and web systems in PHP/Laravel to automate billing, reporting, and equipment reservations for 3,000+ users, reducing processing times by up to 95%.  
 
-**<span style="color:#1f3c86;">OEBSA</span>** • Engineering Intern • Jul 2022 – Sep 2022  
+**<span style="color:#1f3c86;">AXS Bolivia</span>** • Engineering Intern • Jul 2022 – Sep 2022  
 Developed Visual Studio applications to retrieve KPIs from telecom equipment via TCP/IP sockets in Telnet and C#, reducing data retrieval time by 60%.  
 
 ---
