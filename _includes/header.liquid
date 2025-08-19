@@ -4,13 +4,13 @@
     <div class="container d-flex justify-content-between align-items-center">
       
       <!-- Your Name on the left -->
-      <a class="navbar-brand title font-weight-bold" href="{{ site.baseurl }}/">
+      <a class="navbar-brand title font-weight-bold" style="color: white;" href="{{ site.baseurl }}/">
         {{ site.first_name }}{% if site.middle_name %} {{ site.middle_name }}{% endif %} {{ site.last_name }}
       </a>
 
       <!-- Social Icons on the right -->
       {% if site.enable_navbar_social %}
-        <div class="navbar-brand social">
+        <div class="navbar-brand social" style="color: white;">
           {% include social.liquid %}
         </div>
       {% endif %}
