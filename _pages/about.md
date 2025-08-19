@@ -38,7 +38,7 @@ latest_posts:
 
   <!-- Right side: image + info -->
   <div style="flex: 1; text-align: center;">
-    <img src="/assets/img/prof_pic.jpg" alt="Gabriel" style="width:200px; border-radius:12px;">
+    <img src="/assets/img/prof_pic.jpg" alt="Gabriel" style="width:200px; border-radius:12px; margin-bottom:15px;">
     <div>📍 Blacksburg, VA</div>
     <div>🇧🇴 Bolivia</div>
   </div>
